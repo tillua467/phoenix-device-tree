@@ -20,6 +20,7 @@ from extract_utils.main import (
     ExtractUtilsModule,
 )
 namespace_imports = [
+    'hardware/qcom-caf/common/libqti-perfd-client',
     'hardware/xiaomi',
     'vendor/qcom/opensource/display',
     'vendor/xiaomi/sm6150-common',
